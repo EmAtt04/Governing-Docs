@@ -1,0 +1,154 @@
+i ae: Virtual fonts for T1 encoded CMR-fonts
+i amscls: AMS document classes for LaTeX
+i amsfonts: TeX fonts from the American Mathematical Society
+i amsmath: AMS mathematical facilities for LaTeX
+i atbegshi: Execute stuff at \shipout time
+i atveryend: Hooks at the very end of a document
+i auxhook: Hooks for auxiliary files
+i babel: Multilingual support for LaTeX, LuaLaTeX, XeLaTeX, and Plain TeX
+i babel-english: Babel support for English
+i babelbib: Multilingual bibliographies
+i bibtex: Process bibliographies (bib files) for LaTeX or other formats
+i bibtex.windows: windows files of bibtex
+i bigintcalc: Integer calculations on very large numbers
+i bitset: Handle bit-vector datatype
+i bookmark: A new bookmark (outline) organization for hyperref
+i booktabs: Publication quality tables in LaTeX
+i carlisle: David Carlisle's small packages
+i cm: Computer Modern fonts
+i collection-basic: Essential programs and files
+i collection-latex: LaTeX fundamental packages
+i collection-wintools: Windows-only support programs
+i colorprofiles: Collection of free ICC profiles
+i colortbl: Add colour to LaTeX tables
+i dehyph: German hyphenation patterns for traditional orthography
+i dviout.windows: TeX previewer and printer driver for MS-Windows
+i dvipdfmx: An extended version of dvipdfm
+i dvipdfmx.windows: windows files of dvipdfmx
+i dvips: A DVI to PostScript driver
+i dvips.windows: windows files of dvips
+i ec: Computer modern fonts in T1 and TS1 encodings
+i enctex: A TeX extension that translates input on its way into TeX
+i enumitem: Control layout of itemize, enumerate, description
+i epstopdf-pkg: Call epstopdf "on the fly"
+i etex: An extended version of TeX, from the NTS project
+i etex-pkg: E-TeX support package
+i etexcmds: Avoid name clashes with e-TeX commands
+i etoolbox: e-TeX tools for LaTeX
+i euenc: Unicode font encoding definitions for XeTeX
+i extractbb: A reimplementation of extractbb, written in Lua
+i extractbb.windows: windows files of extractbb
+i fancyhdr: Extensive control of page headers and footers in LaTeX2e
+i firstaid: First aid for external LaTeX files and packages that need updating
+i fix2col: Fix miscellaneous two column mode features
+i fontspec: Advanced font selection in XeLaTeX and LuaLaTeX
+i fp: Fixed point arithmetic
+i geometry: Flexible and complete interface to document dimensions
+i gettitlestring: Clean up title references
+i glyphlist: Adobe Glyph List and TeX extensions
+i graphics: The LaTeX standard graphics bundle
+i graphics-cfg: Sample configuration files for LaTeX color and graphics
+i graphics-def: Colour and graphics option files
+i grfext: Manipulate the graphics package's list of extensions
+i hopatch: Load patches for packages
+i hycolor: Implements colour for packages hyperref and bookmark
+i hypcap: Adjusting the anchors of captions
+i hyperref: Extensive support for hypertext in LaTeX
+i hyph-utf8: Hyphenation patterns expressed in UTF-8
+i hyphen-base: core hyphenation support files
+i hyphen-english: English hyphenation patterns.
+i hyphenex: US English hyphenation exceptions file
+i ifplatform: Conditionals to test which platform is being used
+i iftex: Am I running under pdfTeX, XeTeX or LuaTeX?
+i infwarerr: Complete set of information/warning/error message macros
+i intcalc: Expandable arithmetic operations with integers
+i knuth-lib: Core TeX and Metafont sources from Knuth
+i knuth-local: Knuth's local information
+i kpathsea: Path searching library for TeX-related files
+i kpathsea.windows: windows files of kpathsea
+i kvdefinekeys: Define keys for use in the kvsetkeys package
+i kvoptions: Key value format for package options
+i kvsetkeys: Key value parser with default handler support
+i l3backend: LaTeX3 backend drivers
+i l3kernel: LaTeX3 programming conventions
+i l3packages: High-level LaTeX3 concepts
+i latex: A TeX macro package that defines LaTeX
+i latex-bin: LaTeX executables and man pages
+i latex-bin.windows: windows files of latex-bin
+i latex-fonts: A collection of fonts used in LaTeX distributions
+i latex-lab: LaTeX laboratory
+i latexconfig: configuration files for LaTeX-related formats
+i latexmk: Fully automated LaTeX document generation
+i latexmk.windows: windows files of latexmk
+i letltxmacro: Let assignment for LaTeX macros
+i lm: Latin modern fonts in outline formats
+i ltxcmds: Some LaTeX kernel commands for general use
+i ltxmisc: Miscellaneous LaTeX packages, etc.
+i lua-alt-getopt: Process application arguments the same way as getopt_long
+i lua-uni-algos: Unicode algorithms for LuaTeX
+i luahbtex: LuaTeX with HarfBuzz library for glyph shaping
+i luahbtex.windows: windows files of luahbtex
+i lualibs: Additional Lua functions for LuaTeX macro programmers
+i luaotfload: OpenType 'loader' for Plain TeX and LaTeX
+i luaotfload.windows: windows files of luaotfload
+i luatex: The LuaTeX engine
+i luatex.windows: windows files of luatex
+i makeindex: Makeindex development sources
+i makeindex.windows: windows files of makeindex
+i metafont: A system for specifying fonts
+i metafont.windows: windows files of metafont
+i mflogo: LaTeX support for Metafont logo fonts
+i mfnfss: Packages to typeset oldgerman and pandora fonts in LaTeX
+i mfware: Supporting tools for use with Metafont
+i mfware.windows: windows files of mfware
+i modes: A collection of Metafont mode_def's
+i mptopdf: mpost to PDF, native MetaPost graphics inclusion
+i mptopdf.windows: windows files of mptopdf
+i natbib: Flexible bibliography support
+i oberdiek: A bundle of packages submitted by Heiko Oberdiek
+i pagesel: Select pages of a document for output
+i pdfescape: Implements pdfTeX's escape features using TeX or e-TeX
+i pdftex: A TeX extension for direct creation of PDF
+i pdftex.windows: windows files of pdftex
+i pdftexcmds: LuaTeX support for pdfTeX utility functions
+i pgf: Create PostScript and PDF graphics in TeX
+i plain: The Plain TeX format
+i pslatex: Use PostScript fonts by default
+i psnfss: Font support for common PostScript fonts
+i pspicture: PostScript picture support
+i refcount: Counter operations with label references
+i rerunfilecheck: Checksum based rerun checks on auxiliary files
+i scheme-infraonly: infrastructure-only scheme (no TeX at all)
+i scheme-minimal: minimal scheme (plain only)
+i stringenc: Converting a string between different encodings
+i tabularray: Typeset tabulars and arrays with LaTeX3
+i tex: A sophisticated typesetting engine
+i tex-ini-files: Model TeX format creation files
+i tex.windows: windows files of tex
+i texlive-common: TeX Live documentation (common elements)
+i texlive-en: TeX Live manual (English)
+i texlive-msg-translations: translations of the TeX Live installer and TeX Live Manager
+i texlive-scripts: TeX Live infrastructure programs
+i texlive-scripts-extra: TeX Live scripts
+i texlive-scripts-extra.windows: windows files of texlive-scripts-extra
+i texlive-scripts.windows: windows files of texlive-scripts
+i texlive.infra: basic TeX Live infrastructure
+i texlive.infra.windows: windows files of texlive.infra
+i tipa: Fonts and macros for IPA phonetics characters
+i tlgs.windows: Freely available PostScript interpreter
+i tlperl.windows: internal Perl for Windows
+i tlshell: GUI frontend (tcl/tk-based) for tlmgr
+i tlshell.windows: windows files of tlshell
+i tocloft: Control table of contents, figures, etc.
+i tools: The LaTeX standard tools bundle
+i unicode-data: Unicode data and loaders for TeX
+i uniquecounter: Provides unlimited unique counter
+i url: Verbatim with URL-sensitive line breaks
+i wintools.windows: utilities provided only for Windows
+i xcolor: Driver-independent color extensions for LaTeX and pdfLaTeX
+i xdvi: A DVI previewer for the X Window System
+i xetex: An extended variant of TeX for use with Unicode sources
+i xetex.windows: windows files of xetex
+i xetexconfig: crop.cfg for XeLaTeX
+i xunicode: Generate Unicode characters from accented glyphs
+i zapfding: URW 'Base 35' font pack for LaTeX
