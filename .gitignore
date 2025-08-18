@@ -1,3 +1,5 @@
 build_files/
 *.gz
 indent.log
+utilities/credentials.json
+utilities/local-format.sh
