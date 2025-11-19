@@ -1,0 +1,27 @@
+{
+  "latex-workshop.latex.tools": [
+    {
+      "name": "latexmk",
+      "command": "latexmk",
+      "args": [
+        "-xelatex",
+        "-synctex=1",
+        "-interaction=nonstopmode",
+        "-file-line-error",
+        "--aux-directory=./build_files",
+        "%DOC%"
+      ]
+    }
+  ],
+  "latex-workshop.latex.build.forceRecipeUsage": false,
+  "latex-workshop.texcount.path": "/usr/local/texlive/2024/texmf-dist/scripts/texcount/texcount.pl",
+  "latex-utilities.countWord.path": "/usr/local/texlive/2024/texmf-dist/scripts/texcount/texcount.pl",
+  "latex-utilities.countWord.args": [],
+  "latex-workshop.formatting.latexindent.args": [
+    "-c",
+    "%DIR%/",
+    "%TMPFILE%",
+    "-y=defaultIndent:' ',indentRules: item: ' '",
+    "-l"
+  ]
+}
